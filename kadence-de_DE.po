@@ -90,7 +90,7 @@ msgstr "Antwortstatus:"
 
 #: bbpress/form-reply.php:159 bbpress/form-topic.php:200
 msgid "Keep a log of this edit:"
-msgstr ""
+msgstr "Änderungen protokollieren"
 
 #: bbpress/form-reply.php:163 bbpress/form-topic.php:204
 msgid "Optional reason for editing:"
